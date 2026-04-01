@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ToolZilla - Free Online Tools</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f4f4f4; }
+    h1 { color: #333; }
+    .tool {
+      background: white;
+      margin: 10px;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+      width: 250px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    button {
+      padding: 10px;
+      background: blue;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>🔥 ToolZilla - Free Online Tools</h1>
+
+<div class="tool">
+  <h3>📸 Image Compressor</h3>
+  <button>Use Now</button>
+</div>
+
+<div class="tool">
+  <h3>📄 PDF to JPG</h3>
+  <button>Use Now</button>
+</div>
+
+<div class="tool">
+  <h3>📥 Insta Reel Downloader</h3>
+  <button>Use Now</button>
+</div>
+
+<div class="tool">
+  <h3>🤖 AI Caption Generator</h3>
+  <button>Use Now</button>
+</div>
+
+</body>
+</html>
